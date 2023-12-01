@@ -113,7 +113,7 @@
     "vscode-languageserver-protocol": "^3.15.3"
   },
   "devDependencies": {
-    "@types/node": "^14.0.9",
+    "@types/node": "^20.0.0",
     "@types/vscode": "^1.41.0",
     "typescript": "^3.9.3",
     "vsce": "^2.15.0"
